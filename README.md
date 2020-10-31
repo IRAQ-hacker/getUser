@@ -121,6 +121,8 @@ $ bash setup
 
 $ bash instahack.sh
 
+```
+```
 
 # Screenshot
 

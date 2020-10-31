@@ -114,7 +114,8 @@ $ bash instahack.sh
 
 ## 📌 ***Screenshot*** :
 
-!.[screenshot].(https://github.com/IRAQ-hacker/instahack-/issues/2#issue-733646327)
+
+
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:

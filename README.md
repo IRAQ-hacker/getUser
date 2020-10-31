@@ -114,7 +114,7 @@ $ bash instahack.sh
 
 ## 📌 ***Screenshot*** :
 
-![Screenshot_٢٠٢٠١٠٣٠٧٥٩٥١_Termux](https://user-images.githubusercontent.com/70316694/97772590-9de4f800-1b59-11eb-8fb3-704d48a2ceaf.jpg)
+
  
 ## 🔗 ***Check this***
 

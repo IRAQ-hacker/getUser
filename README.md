@@ -89,8 +89,27 @@ $ ls
 ```
 
 ```
+$ mv instahack /sdcard
 
-cd instahack
+```
+```
+$ cd /sdcard/instahack
+
+```
+```
+ $ ls
+ 
+```
+```
+$ cp -r main /data/data/com.termux/files/home/instahack
+
+```
+
+$ cp -r core /data/data/com.termux/files/home/instahack
+
+```
+
+$ cp -r pass /data/data/com.termux/files/home/instahack
 
 ```
 

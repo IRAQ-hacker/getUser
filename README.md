@@ -118,6 +118,7 @@ $ bash instahack.sh
 
 * Open new session and start TOR (tor) before starting the attack
 
+```
 
 ## 🔗 ***Check this***
 

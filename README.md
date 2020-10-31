@@ -1,4 +1,4 @@
-# instahack-
+# instahack
 
 <h1 align="center">INSTA-HACK-ReKuShE v2</h1>
 

@@ -90,6 +90,10 @@ $ ls
 
 ```
 
+cd instahack
+
+```
+
 $ bash setup
 
 ```

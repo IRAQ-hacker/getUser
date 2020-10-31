@@ -87,7 +87,6 @@ $ unzip instahack.zip
 $ ls
 
 ```
-
 ```
 $ mv instahack /sdcard
 
@@ -102,13 +101,12 @@ $ cd /sdcard/instahack
 ```
 ```
 $ cp -r main /data/data/com.termux/files/home/instahack
-
 ```
 ```
 $ cp -r core /data/data/com.termux/files/home/instahack
 
 ```
-
+```
 $ cp -r pass /data/data/com.termux/files/home/instahack
 
 ```
@@ -116,11 +114,8 @@ $ cp -r pass /data/data/com.termux/files/home/instahack
 $ bash setup
 
 ```
-
 ```
-
 $ bash instahack.sh
-
 ```
 ```
 

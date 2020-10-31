@@ -7,8 +7,8 @@
       A new automated script for Instagram Account hackig from bruteforce
 
 </p>
-![tenor](https://user-images.githubusercontent.com/70316694/97772509-054e7800-1b59-11eb-901f-5a9e426d809b.gif)
 
+![tenor](https://user-images.githubusercontent.com/70316694/97772509-054e7800-1b59-11eb-901f-5a9e426d809b.gif)
 
 ## 🔍 ***About INSTA-HACK***:
 

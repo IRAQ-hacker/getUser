@@ -13,6 +13,6 @@ pip3 install stem
 pip3 install mechanize
 pip3 install bs4
 pip3 install requests
-git clone https://github.com/iraq-hacker/getUser
-cd getUser
+cd $HOME/getUser
+
 

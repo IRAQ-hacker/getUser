@@ -5,10 +5,16 @@ from the hashtag (:
 
 # use :
 `git clone https://github.com/IRAQ-hacker/getUser`
+`pkg install python -y`
+`pkg install python2 -y`
+`pkg install python3 -y`
+`pip install requests`
+`pip install mechanize`
+`pip install bs4`
 
 `cd getUser`
 `chmod +x *`
-`bash setup`
+
 
 `python Fuck.py`
 
